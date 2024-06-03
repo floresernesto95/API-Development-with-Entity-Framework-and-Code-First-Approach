@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\dtos\\dtoitemput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:dtos\\dtoitemput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\migrations\\20240526180404_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:migrations\\20240526180404_primeramigracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:migrations\\todocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:controllers\\todoitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\dtos\\dtoitempost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:dtos\\dtoitempost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\dtos\\dtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:dtos\\dtoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|d:\\utn\\programaci\u00F3n iii\\unidad 3\\clase 1 - codefirst\\clase 1\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{080C7664-95B4-4C01-BE0D-A0DBE2FDA772}|Clase 1.csproj|solutionrelative:models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Migrations\\ToDoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ToDoContextModelSnapshot.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Migrations\\ToDoContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ToDoContextModelSnapshot.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:42:06.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240526180404_PrimeraMigracion.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Migrations\\20240526180404_PrimeraMigracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240526180404_PrimeraMigracion.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Migrations\\20240526180404_PrimeraMigracion.cs",
+              "RelativeToolTip": "Migrations\\20240526180404_PrimeraMigracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:42:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DtoItemPut.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItemPut.cs",
+              "RelativeDocumentMoniker": "Dtos\\DtoItemPut.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItemPut.cs",
+              "RelativeToolTip": "Dtos\\DtoItemPut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:25:17.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DtoItemPost.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItemPost.cs",
+              "RelativeDocumentMoniker": "Dtos\\DtoItemPost.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItemPost.cs",
+              "RelativeToolTip": "Dtos\\DtoItemPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:25:14.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoItemController.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Controllers\\ToDoItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ToDoItemController.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Controllers\\ToDoItemController.cs*",
+              "RelativeToolTip": "Controllers\\ToDoItemController.cs*",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwGoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:46:50.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DtoItem.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItem.cs",
+              "RelativeDocumentMoniker": "Dtos\\DtoItem.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Dtos\\DtoItem.cs",
+              "RelativeToolTip": "Dtos\\DtoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:25:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ToDoItem.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\ToDoItem.cs",
+              "RelativeDocumentMoniker": "Models\\ToDoItem.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\ToDoItem.cs*",
+              "RelativeToolTip": "Models\\ToDoItem.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:07:44.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T02:06:59.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoContext.cs",
+              "DocumentMoniker": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\ToDoContext.cs",
+              "RelativeDocumentMoniker": "Models\\ToDoContext.cs",
+              "ToolTip": "D:\\UTN\\Programaci\u00F3n III\\Unidad 3\\Clase 1 - CodeFirst\\Clase 1\\Models\\ToDoContext.cs*",
+              "RelativeToolTip": "Models\\ToDoContext.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:56:55.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
