@@ -1,4 +1,4 @@
-# API and Code First with Entity Framework
+# API Development with Entity Framework and Code First Approach
 
 <p align="center">
   <img src="https://github.com/floresernesto95/Images/blob/main/code_first_repo%201.webp.png"/>
